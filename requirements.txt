@@ -1,5 +1,5 @@
 git+https://github.com/DX-MODS/pyrogram
-aiohttp==3.8.5
+aiohttp==3.8.6
 tgcrypto
 lyricsgenius
 python-dotenv==0.21.1
